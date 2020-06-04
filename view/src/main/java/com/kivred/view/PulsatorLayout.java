@@ -1,4 +1,4 @@
-package com.kived.view;
+package com.kivred.view;
 
 import android.animation.Animator;
 import android.animation.AnimatorSet;
